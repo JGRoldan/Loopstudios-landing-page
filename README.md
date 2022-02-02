@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: https://jgroldan.github.io/SunnySideLandignPage/
+- Live Site URL: https://jgroldan.github.io/Loopstudios-landing-page/
 
 ## My process
 
